@@ -8,13 +8,19 @@ Para baixarmos todas as dependências do projeto será utlizado o composer
 
 # Nesse projeto será utilizado
 
-### PHP
-### Composer
-### Laravel
-### Visual Studio Code
-### Postman
-### Banco de Dados My Sql
-### Interface de BD MySQLWorkbench
+PHP
+
+Composer
+
+Laravel
+
+Visual Studio Code
+
+Postman
+
+Banco de Dados My Sql
+
+Interface de BD MySQLWorkbench
 
 # Como iniciar o projeto
 
