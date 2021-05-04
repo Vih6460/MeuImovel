@@ -24,7 +24,7 @@ Interface de BD MySQLWorkbench
 
 # Como iniciar o projeto
 
-Para iniciar o projeto crie uma pasta com o nome do projeto, entre nessa pasta pelo terminal e rode o seguinte comando:
+Para iniciar o projeto já com as dependências do laravel instaladas, crie uma pasta com o nome do projeto, entre nessa pasta pelo terminal e rode o seguinte comando:
 
 ``` bash
  composer create-project --prefer-dist laravel/laravel nome_do_projeto "5.7.*"
