@@ -6,6 +6,16 @@ Projeto criado com o intuito de fixar os conhecimentos adquiridos através de um
 
 Para baixarmos todas as dependências do projeto será utlizado o composer
 
+# Nesse projeto será utilizado
+
+### PHP
+### Composer
+### Laravel
+### Visual Studio Code
+### Postman
+### Banco de Dados My Sql
+### Interface de BD MySQLWorkbench
+
 # Como iniciar o projeto
 
 Para iniciar o projeto crie uma pasta com o nome do projeto, entre nessa pasta pelo terminal e rode o seguinte comando:
